@@ -1,0 +1,5 @@
+{
+  "name": "Game Rules Narrator",
+  "description": "An application that reads game rules aloud in Arabic using AI-powered text-to-speech with a female voice, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
